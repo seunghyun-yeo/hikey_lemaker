@@ -1,4 +1,2 @@
-boot-fat.uefi.img filter=lfs diff=lfs merge=lfs -text
-hikey-jessie_developer_20151130-387-8g.emmc.img filter=lfs diff=lfs merge=lfs -text
-nvme.img filter=lfs diff=lfs merge=lfs -text
-ptable-linux-8g.img filter=lfs diff=lfs merge=lfs -text
+boot-fat.uefi.img.gz filter=lfs diff=lfs merge=lfs -text
+hikey-jessie_developer_20151130-387-8g.emmc.img.gz filter=lfs diff=lfs merge=lfs -text
